@@ -3,7 +3,7 @@
   "type": "symfony-bundle",
   "description": "Adds jQuery javascript library to symfony2",
   "keywords": ["javascript", "jquery","bundle", "symfony"],
-  "homepage": "https://github.com/ajgl/AjglJQueryBundle",
+  "homepage": "https://github.com/ajgarlag/AjglJQueryBundle",
   "license": "MIT",
   "authors": [
     {
