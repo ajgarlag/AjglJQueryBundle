@@ -5,7 +5,7 @@ The AjglJQueryBundle adds **jQuery** javascript library to **Symfony2**.
 
 ## Prerequisites
 
-This version of the bundle has been tested with Symfony 2.1.
+This version of the bundle has been tested with Symfony 2.3.
 
 
 ## Installation
